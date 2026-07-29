@@ -509,6 +509,19 @@
     "dateAdded": "2026-01-15"
   },
   {
+    "slug": "shibaclaw",
+    "name": "ShibaClaw",
+    "description": "Security-first AI agent with built-in WebUI, 22 providers, MCP support, prompt-injection hardening, and OpenRouter OAuth. One line Install.",
+    "url": "https://github.com/RikyZ90/ShibaClaw",
+    "docs": "https://github.com/RikyZ90/ShibaClaw#supported-providers",
+    "tags": [
+      "productivity",
+      "coding"
+    ],
+    "openSource": "https://github.com/RikyZ90/ShibaClaw",
+    "dateAdded": "2026-05-03"
+  },
+  {
     "slug": "sillytavern",
     "name": "SillyTavern",
     "description": "A local-first LLM frontend for power users, supporting chat, character cards, and multiple AI providers.",

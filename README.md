@@ -64,6 +64,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Roboflow Workflows](#roboflow-workflows)
 - [Roo Code](#roo-code)
 - [Shakespeare](#shakespeare)
+- [ShibaClaw](#shibaclaw)
 - [SillyTavern](#sillytavern)
 - [Skales](#skales)
 - [SoulForge](#soulforge)
@@ -552,6 +553,18 @@ An open-source browser-based AI application builder that works entirely in-brows
 `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://gitlab.com/soapbox-pub/shakespeare)
 
 [Documentation](https://soapbox.pub/shakespeare-resources/)
+
+---
+
+### [ShibaClaw](https://github.com/RikyZ90/ShibaClaw)
+
+<img src="./apps/shibaclaw/logo.png" alt="ShibaClaw logo" width="64" height="64">
+
+Security-first AI agent with built-in WebUI, 22 providers, MCP support, prompt-injection hardening, and OpenRouter OAuth. One line Install.
+
+`productivity` `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/RikyZ90/ShibaClaw)
+
+[Documentation](https://github.com/RikyZ90/ShibaClaw#supported-providers)
 
 ---
 
