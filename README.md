@@ -42,6 +42,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [GitBug](#gitbug)
 - [GitHub Copilot](#github-copilot)
 - [Helicone](#helicone)
+- [InternAgent](#internagent)
 - [Junie](#junie)
 - [Kilo Code](#kilo-code)
 - [LibreChat](#librechat)
@@ -289,6 +290,18 @@ Observability and Evaluation. Bring your OpenRouter key to supercharge your infe
 `productivity` `research` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/Helicone/helicone)
 
 [Documentation](https://docs.helicone.ai/getting-started/integration-method/openrouter#openrouter-integration)
+
+---
+
+### [InternAgent](https://discovery.intern-ai.org.cn)
+
+<img src="./apps/internagent/logo.png" alt="InternAgent logo" width="64" height="64">
+
+Open-source agentic framework for autonomous scientific discovery, deep research, and experiment iteration. Use OpenRouter as the model gateway with your own API key.
+
+`research` `productivity` `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/InternScience/InternAgent)
+
+[Documentation](https://github.com/InternScience/InternAgent/blob/main/docs/openrouter.md)
 
 ---
 
