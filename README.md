@@ -33,6 +33,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Aventura](#aventura)
 - [BoltAI](#boltai)
 - [Browser Use](#browser-use)
+- [Cai](#cai)
 - [Chatbox](#chatbox)
 - [ChatLima](#chatlima)
 - [Chorus](#chorus)
@@ -182,6 +183,18 @@ Open-source browser agent driven via CDP. Pairs with OpenRouter as the action la
 `productivity` `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/browser-use/browser-use)
 
 [Documentation](https://docs.browser-use.com/open-source/supported-models#openrouter)
+
+---
+
+### [Cai](https://getcai.app)
+
+<img src="./apps/cai/logo.png" alt="Cai logo" width="64" height="64">
+
+Run smart actions and multi-step workflows on any text or image you select: AI prompts, shell scripts, ticket creation, in one keystroke. 100% local, free, and MIT licensed. macOS.
+
+`productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/cai-layer/cai)
+
+[Documentation](https://getcai.app/docs/getting-started/llm-setup/#openrouter)
 
 ---
 

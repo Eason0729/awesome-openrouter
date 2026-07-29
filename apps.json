@@ -130,6 +130,18 @@
     "dateAdded": "2026-05-04"
   },
   {
+    "slug": "cai",
+    "name": "Cai",
+    "description": "Run smart actions and multi-step workflows on any text or image you select: AI prompts, shell scripts, ticket creation, in one keystroke. 100% local, free, and MIT licensed. macOS.",
+    "url": "https://getcai.app",
+    "docs": "https://getcai.app/docs/getting-started/llm-setup/#openrouter",
+    "tags": [
+      "productivity"
+    ],
+    "openSource": "https://github.com/cai-layer/cai",
+    "dateAdded": "2026-06-16"
+  },
+  {
     "slug": "chatbox",
     "name": "Chatbox",
     "description": "Your Ultimate AI Copilot on the Desktop. Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux, iOS, and Android.",
