@@ -28,6 +28,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Agent Zero](#agent-zero)
 - [AiAssistWorks](#aiassistworks)
 - [Aider](#aider)
+- [AionUi](#aionui)
 - [analystOS](#analystos)
 - [Autohand Code CLI](#autohand-code-cli)
 - [Aventura](#aventura)
@@ -123,6 +124,18 @@ AI pair programming in your terminal that lets you work with LLMs to build on yo
 `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/Aider-AI/aider)
 
 [Documentation](https://aider.chat/docs/llms/openrouter.html)
+
+---
+
+### [AionUi](https://www.aionui.com)
+
+<img src="./apps/aionui/logo.png" alt="AionUi logo" width="64" height="64">
+
+Free, local, open-source cowork desktop app with multiple AI agents. Bring your own OpenRouter API key to access any model, with multi-session chat, MCP, ACP, file preview, and 24/7 scheduled tasks on macOS, Windows and Linux.
+
+`chat` `coding` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/iOfficeAI/AionUi)
+
+[Documentation](https://github.com/iOfficeAI/AionUi)
 
 ---
 
